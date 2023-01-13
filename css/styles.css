@@ -3174,7 +3174,7 @@ img.u-pull-left {
 }
 
 .s-intro__content .text-pretitle::before {
-    background-color: white;
+    background-color: transparent;
 }
 
 .s-intro__content-bottom {
@@ -3196,7 +3196,6 @@ img.u-pull-left {
     font-weight: 300;
     margin-top: 0;
     margin-bottom: var(--vspace-0_375);
-    color: rgba(255, 255, 255, 0.3);
 }
 
 /* --------------------------------------------------------------------
