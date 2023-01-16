@@ -3803,7 +3803,7 @@ img.u-pull-left {
 
 .services-list h4::before {
     display: block;
-    content: counter(ctr, decimal-leading-zero) ".";
+    /*content: counter(ctr, decimal-leading-zero) "."; */
     font-family: var(--font-2);
     font-size: var(--text-sm);
     line-height: var(--vspace-0_75);
