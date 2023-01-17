@@ -2928,7 +2928,7 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .s-intro {
     --header-height: 8.8rem;
-    --logo-width: 78px;
+    --logo-width: 70 px;
     --text-display-size: 11.2rem;
     --text-multiplier: 1;
     z-index: 3;
@@ -3583,7 +3583,7 @@ img.u-pull-left {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1500px) {
     .s-intro {
         --header-height: 8rem;
     }
@@ -3625,9 +3625,9 @@ img.u-pull-left {
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 1000px) {
     .s-intro {
-        --logo-width: 70px;
+        --logo-width: 150px;
     }
 
     .s-intro__logo {
